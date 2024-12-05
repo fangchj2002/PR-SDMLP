@@ -25,3 +25,5 @@ pip install -e .
 6. run the command 'python run_training.py'.
 
 If you encounter any problems, please do not hesitate to contact us.
+
+The corresponding pretrained model can be downloaded from the URL: https://drive.google.com/file/d/1jd-TKFczJ_WjENbqfOtGP7-3jFot13Et/view?usp=drive_link
