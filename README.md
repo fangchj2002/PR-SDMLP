@@ -16,6 +16,12 @@ pip install -e .
 
 2. Download the jaw cyst dataset from https://pan.baidu.com/s/13KMnDlZWgeyzq0XVI10j6Q and password: ztzu.
 
-3. The above files except for nnUNetTrainer.py are put into the fold: nnunetv2\training\nnUNetTrainer\variants\network_architecture.
+3. The above files including PR_SDMLP.py and PR_SDMLP_Encoder.py are put into the fold: nnunetv2\training\nnUNetTrainer\variants\network_architecture.
 
-4. In the meanwhile, you replace the nnUNetTrainer class file with uploaded file named as 'nnUNetTrainer.py.
+4. The file 'nnUNetTrainer.py' is replaced, which is located in the folder 'nnunetv2\training\nnUNetTrainer\'.
+
+5. put the file named as 'run_training.py' into the folder 'nnunetv2\run'
+
+6. run the command 'python run_training.py'.
+
+If you encounter any problems, please do not hesitate to contact us.
