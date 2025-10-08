@@ -4,7 +4,9 @@ This code is for the paper title 'PR-SDMLP: Progressive Regularized Network via 
 
 submitted to IEEE Transactions on Emerging Topics in Computational Intelligence.
 
-The corrsponding dataset can be downloaded from the website: https://pan.baidu.com/s/13KMnDlZWgeyzq0XVI10j6Q and password: ztzu.
+The corrsponding dataset can be downloaded from the website: https://pan.baidu.com/s/11EcV97RXeVnZx2mtngTUUA
+
+#Note: You can download the datasets from the URLS before you send the Dataset End-User Agreement Instructions, we will send the password or the updating urls to you.
 
 # How to use this code
 
